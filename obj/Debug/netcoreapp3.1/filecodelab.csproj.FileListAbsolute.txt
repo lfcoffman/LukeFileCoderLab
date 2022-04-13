@@ -1,0 +1,13 @@
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\obj\Debug\netcoreapp3.1\filecodelab.csprojAssemblyReference.cache
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\obj\Debug\netcoreapp3.1\filecodelab.AssemblyInfoInputs.cache
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\obj\Debug\netcoreapp3.1\filecodelab.AssemblyInfo.cs
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\obj\Debug\netcoreapp3.1\filecodelab.csproj.CoreCompileInputs.cache
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\bin\Debug\netcoreapp3.1\filecodelab.exe
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\bin\Debug\netcoreapp3.1\filecodelab.deps.json
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\bin\Debug\netcoreapp3.1\filecodelab.runtimeconfig.json
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\bin\Debug\netcoreapp3.1\filecodelab.runtimeconfig.dev.json
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\bin\Debug\netcoreapp3.1\filecodelab.dll
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\bin\Debug\netcoreapp3.1\filecodelab.pdb
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\obj\Debug\netcoreapp3.1\filecodelab.dll
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\obj\Debug\netcoreapp3.1\filecodelab.pdb
+C:\Users\lfcof\OneDrive\Documents\Code\mis221\filecodelab\obj\Debug\netcoreapp3.1\filecodelab.genruntimeconfig.cache
